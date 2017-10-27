@@ -1,0 +1,100 @@
+{
+  "langid": 0,
+  "pageid": 0,
+  "layout": 2,
+  "title": "Lorem ipsum",
+  "desc": "Dolor sit amet, consectetuer elit...",
+  "aside": [
+    {
+      "menu": 1,
+      "branch": 3
+    }
+  ],
+  "blocks": [
+    {
+      "block": "heading_0",
+      "title": "Nadpis",
+      "settings": {
+        "bg": "img.png"
+      },
+      "items": {
+        "element0": {
+          "value": "",
+          "type": "element",
+          "attrs": {
+            "lorem": "ipsum",
+            "foo": "bar"
+          },
+          "params": {
+            "lorem": "ipsum",
+            "foo": "bar"
+          }
+        },
+        "title0": {
+          "value": "foo bar",
+          "type": "text",
+          "attrs": {
+            "lorem": "ipsum",
+            "foo": "bar"
+          },
+          "params": {
+            "lorem": "ipsum",
+            "foo": "bar"
+          }
+        },
+        "image0": {
+          "value": "",
+          "type": "img",
+          "attrs": {
+            "src": "0123456789.png",
+            "alt": "bar"
+          },
+          "params": {
+            "lorem": "ipsum",
+            "foo": "bar"
+          }
+        },
+        "file0": {
+          "value": "",
+          "type": "file",
+          "attrs": {
+            "href": "0123456789.docx",
+            "foo": "bar"
+          },
+          "params": {
+            "lorem": "ipsum",
+            "foo": "bar"
+          },
+          "vars": {
+            "var": "value"
+          }
+        },
+        "link0": {
+          "value": "Click here!",
+          "type": "link",
+          "attrs": {
+            "target": "_blank",
+            "title": "lorem ipsum",
+            "href": "http://nekde.neco/"
+          },
+          "params": {
+            "lorem": "ipsum",
+            "foo": "bar"
+          }
+        },
+        "icon0": {
+          "value": "",
+          "type": "icon",
+          "attrs": {
+            "lorem": "ipsum",
+            "foo": "bar"
+          },
+          "params": {
+            "lorem": "ipsum",
+            "foo": "bar"
+          }
+        }
+      }
+    }
+  ]
+}
